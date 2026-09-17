@@ -7,8 +7,7 @@
 
 ## References and Resources
 
- `Gemini/Chatgpt-Used for helping editing the ui
- such as asking which parameters change` 
+ `Gemini/Chatgpt-Ask how syntax works and how to configure UI design` 
 
 ## Verbal Collaboration
 
