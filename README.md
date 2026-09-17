@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Cyrus June Dingle`
+- **CCID:** `cdingle`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+ `Gemini/Chatgpt-Used for helping editing the ui
+ such as asking which parameters change` 
 
 ## Verbal Collaboration
 
